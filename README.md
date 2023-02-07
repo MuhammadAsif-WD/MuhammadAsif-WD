@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **muhammadasif.wd@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/17LN0rVUepdZ3pVeZGRX6MYTCAEAT1X7TI7D0Nf66HB8/edit?usp=sharing](https://docs.google.com/document/d/17LN0rVUepdZ3pVeZGRX6MYTCAEAT1X7TI7D0Nf66HB8/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/17LN0rVUepdZ3pVeZGRX6MYTCAEAT1X7TI7D0Nf66HB8/edit?usp=sharing)
 
 - ⚡ Fun fact **One of the most powerful yet ignored thoughts is - "Focusing on 'great ideas in a sea of 'good ideas' makes you unique"**
 

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://muhammadasif-wd.web.app/](https://muhammadasif-wd.web.app/)
 
-- 📝 I regularly write articles on [https://dev.to/muhammadasif_wd](https://dev.to/muhammadasif_wd)
+- 📝 I regularly write articles on (https://dev.to/muhammadasif_wd)
 
 - 💬 Ask me about full-stack development. **MERN Stack Development**
 

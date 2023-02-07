@@ -13,15 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff" />
-<img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react%20router&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=fff" />
-<img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Node%20js-339933?logo=node.js&logoColor=fff" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=fff" />
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" />
+<img src="https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff" /><img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react%20router&logoColor=fff" /><img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff" /><img src="https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=fff" /><img src="https://img.shields.io/badge/-typescript-3178C6?logo=typescript&logoColor=fff" /><img src="https://img.shields.io/badge/-Node%20js-339933?logo=node.js&logoColor=fff" /><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" /><img src="https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=fff" /><img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" />
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=MuhammadAsif-WD&count_private=true&show_icons=true&theme=radical)
 

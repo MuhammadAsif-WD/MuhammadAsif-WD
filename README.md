@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Three.JS **Three.js**
 
-- 👨‍💻 All of my projects are available at [https://muhammadasif-wd.web.app/](https://muhammadasif-wd.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://muhammadasif-wd.web.app/)
 
 - 📝 I regularly write articles on [https://dev.to/muhammadasif_wd](https://dev.to/muhammadasif_wd)
 

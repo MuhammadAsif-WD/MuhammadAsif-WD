@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://img.shields.io/badge/-REACT-61DAFB?logo=html5&logoColor=fff" />
-<img src="https://img.shields.io/badge/-HTML-61DAFB?logo=html5&logoColor=fff" />
-
+<img src="https://img.shields.io/badge/-REACT-61DAFB?logo=react&logoColor=fff" />
 ![Github Status](https://github-readme-stats.vercel.app/api?username=MuhammadAsif-WD&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAsif-WD&show_icons=true&theme=radical)

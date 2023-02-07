@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Skills]<img src="https://simpleicons.org/icons/html5.svg" />
+<img src="https://img.shields.io/badge/-REACT-61DAFB?logo=html5&logoColor=fff" />
+<img src="https://img.shields.io/badge/-HTML-61DAFB?logo=html5&logoColor=fff" />
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=MuhammadAsif-WD&count_private=true&show_icons=true&theme=radical)
 
